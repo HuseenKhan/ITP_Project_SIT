@@ -39,9 +39,11 @@ Open the ROS2 Docker startup file:
 nano /home/pi/ros2_humble.sh
 ```
 Add the following volume line inside the Docker command:
-```bassh
+```bash
 -v /home/pi/SharedFolder:/home/pi/SharedFolder \
--The updated Docker script should look like this:
+```
+The updated Docker script should look like this:
+```bash
 #!/bin/bash
 xhost +
 docker run -it \
