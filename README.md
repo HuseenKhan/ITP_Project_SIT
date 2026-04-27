@@ -80,5 +80,9 @@ Run your Python script:
 ```bassh
 python3 your_script.py
 ```
-## Note
-This project is currently in progress. More scripts and features will be added in future updates.
+## Contact
+This project is currently in progress. More scripts and features will be added in future updates. 
+For enquiries, support, or suggestions, please feel free to contact:
+
+- huseen0207@outlook.com  
+- huseeen.khan@singaporetech.edu.sg
