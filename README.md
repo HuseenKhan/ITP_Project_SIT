@@ -3,7 +3,7 @@
 ## Overview
 This project is developed as part of an ITP (Integrated Team Project) for Computer Engineering (CEG) students at the Singapore Institute of Technology (SIT).
 
-The goal is to enable real-time command and control of a robotic system using 5G and Edge AI concepts.
+The goal is to enable real-time command and control of a robotic system using 5G/Wi-Fi and Edge AI concepts.
 
 ## Hardware
 - Yahboom Car Robot, Laptop 
