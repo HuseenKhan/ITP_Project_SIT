@@ -26,7 +26,7 @@ The goal is to enable real-time command and control of a robotic system using 5G
 ## Running Python Scripts Using Shared Folder in Docker
 Create a shared folder on the Raspberry Pi:
 ```bash
-mkdir -p /home/pi/SharedFolder
+mkdir -p /home/pi/SharedFolder```
 
 Save your Python scripts inside this folder:
 ```-/home/pi/SharedFolder
