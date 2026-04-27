@@ -35,7 +35,7 @@ This file provides a simple GUI interface for controlling the Yahboom car robot.
 - Stop
   
 ## Running Python Scripts in Yahboom Docker Environment
-To save files inside the Yahboom robot and run via Docker environemnt to access ROS, we perform the following steps:
+To save files inside the Yahboom robot and run via Docker environemnt to access ROS, Perform the following steps:
 Create a shared folder on the Raspberry Pi:
 ```bash
 mkdir -p /home/pi/Your_Folder_Name
