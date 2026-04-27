@@ -25,15 +25,15 @@ The goal is to enable real-time command and control of a robotic system using 5G
   
 ## Running Python Scripts Using Shared Folder in Docker
 Create a shared folder on the Raspberry Pi:
-bash
-mkdir -p /home/pi/SharedFolder
-Save your Python scripts inside this folder:
-/home/pi/SharedFolder
-Open the ROS2 Docker startup file:
-nano /home/pi/ros2_humble.sh
-Add the following volume line inside the Docker command:
+-bash
+-mkdir -p /home/pi/SharedFolder
+-Save your Python scripts inside this folder:
+-/home/pi/SharedFolder
+-Open the ROS2 Docker startup file:
+-nano /home/pi/ros2_humble.sh
+-Add the following volume line inside the Docker command:
 -v /home/pi/SharedFolder:/home/pi/SharedFolder \
-The updated Docker script should look like this:
+-The updated Docker script should look like this:
 #!/bin/bash
 xhost +
 docker run -it \
@@ -49,10 +49,10 @@ docker run -it \
 yahboomtechnology/ros-humble:4.1.2 \
 /bin/bash /root/1.sh
 
-After starting the Docker container, go to the shared folder inside Docker:
-cd /home/pi/SharedFolder
-Run your Python script:
-python3 your_script.py
+-After starting the Docker container, go to the shared folder inside Docker:
+-cd /home/pi/SharedFolder
+-Run your Python script:
+-python3 your_script.py
 
 ## Contact
 For enquiries, support, or suggestions, please feel free to contact:
