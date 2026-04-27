@@ -22,6 +22,17 @@ The goal is to enable real-time command and control of a robotic system using 5G
 - Remote control systems
 - Automation
 
+## Running the Car Control GUI
+
+The project includes a Python file named `car_control.py`.
+
+This file provides a simple GUI interface for controlling the Yahboom car robot. The user can control the car using buttons such as:
+
+- Forward
+- Backward
+- Left
+- Right
+- Stop
   
 ## Running Python Scripts in Yahboom Docker Environment
 To save files inside the Yahboom robot and run via Docker environemnt to access ROS, follow these steps:
