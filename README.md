@@ -15,14 +15,13 @@ The goal is to enable real-time command and control of a robotic system using 5G
 ## Key Features
 - Real-time control
 - Low latency
-- Practical robotics implementation
 
 ## Application
 - Smart robotics
 - Remote control systems
 - Automation
 
-## Controlling the Yahboom Car Control via GUI
+## Controlling the Yahboom Car via GUI
 
 The project includes a Python file named `car_control.py`.
 
