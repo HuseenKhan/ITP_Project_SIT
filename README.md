@@ -30,7 +30,9 @@ mkdir -p /home/pi/SharedFolder
 ```
 
 Save your Python scripts inside this folder:
-```-/home/pi/SharedFolder
+```bash
+/home/pi/SharedFolder
+```
 
 Open the ROS2 Docker startup file:
 ``` nano /home/pi/ros2_humble.sh ```
