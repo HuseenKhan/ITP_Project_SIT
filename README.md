@@ -21,3 +21,8 @@ The goal is to enable real-time command and control of a robotic system using 5G
 - Smart robotics
 - Remote control systems
 - Automation
+
+- ## Contact
+For enquiries, support, or suggestions, please feel free to contact:
+- huseen0207@outlook.com  
+- huseeen.khan@singaporetech.edu.sg
