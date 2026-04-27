@@ -27,10 +27,10 @@ The goal is to enable real-time command and control of a robotic system using 5G
 Create a shared folder on the Raspberry Pi:
 ```bash
 mkdir -p /home/pi/SharedFolder
-```
+
 Save your Python scripts inside this folder:
 ```-/home/pi/SharedFolder
-```
+
 Open the ROS2 Docker startup file:
 ``` nano /home/pi/ros2_humble.sh ```
 -Add the following volume line inside the Docker command:
