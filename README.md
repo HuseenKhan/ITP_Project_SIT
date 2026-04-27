@@ -1,4 +1,4 @@
-# Next-Gen Robotics: Real-Time Command and Control via 5G Edge AI
+# Next-Gen Robotics: Real-Time Command and Control via 5G/Wi-Fi Edge AI
 
 ## Overview
 This project is developed as part of an ITP (Integrated Team Project) for Computer Engineering (CEG) students at the Singapore Institute of Technology (SIT).
