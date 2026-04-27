@@ -22,7 +22,7 @@ The goal is to enable real-time command and control of a robotic system using 5G
 - Remote control systems
 - Automation
 
-## Running the Car Control GUI
+## Controlling the Yahboom Car Control via GUI
 
 The project includes a Python file named `car_control.py`.
 
