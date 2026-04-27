@@ -23,7 +23,8 @@ The goal is to enable real-time command and control of a robotic system using 5G
 - Automation
 
   
-## Running Python Scripts Using Shared Folder in Docker
+## Running Python Scripts in Yahboom Docker Environment
+To save files inside the Yahboom robot and run via Docker environemnt to access ROS, follow these steps:
 Create a shared folder on the Raspberry Pi:
 ```bash
 mkdir -p /home/pi/Your_Folder_Name
